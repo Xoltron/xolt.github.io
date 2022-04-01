@@ -15,7 +15,7 @@ I don't respond to emails, sorry :(
 # Fun Games!
 **Just some links of games I imported, pretty much all of them are not mine.**
 
-[xoltron.github.io/xoltcookie](https//xoltron.github.io/xoltcookie/) - HTML Port of Cookie Clicker.
+[xoltron.github.io/xoltcookie](/xoltcookie/) - HTML Port of Cookie Clicker.
 
 [xoltron.github.io/xoltmario](https//xoltron.github.io/xoltmario/) - HTML Port of Full Screen Mario with Extras.
 
