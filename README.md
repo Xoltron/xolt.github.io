@@ -1,37 +1,14 @@
 ## Hello there lol
 
-You can use the [editor on GitHub](https://github.com/Xoltron/xoltron.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is my cool website :D
+Yeah that's it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## DA LINKS
 
-### Markdown
+[xoltron.github.io/xoltcookie](https//xoltron.github.io/xoltcookie/) - HTML Port of Cookie Clicker.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[xoltron.github.io/xoltmario](https//xoltron.github.io/xoltmario/) - HTML Port of Full Screen Mario with Extras.
 
-```markdown
-Syntax highlighted code block
+[xoltron.github.io/xoltmoira](https//xoltron.github.io/xoltmoira/) - Same as "xoltmario" but actually works.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xoltron/xoltron.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[xoltron.github.io/xoltcookie2](https//xoltron.github.io/xoltcookie2/) - 2nd Webpage for cookie clicker cus why not? 
