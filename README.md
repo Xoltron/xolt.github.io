@@ -18,11 +18,11 @@ I don't respond to emails, sorry :(
 
 ![](/images/cookie.png)[xoltron.github.io/xoltcookie](/xoltcookie/) - HTML Port of Cookie Clicker.
 
-[xoltron.github.io/xoltmario](/xoltmario/) - HTML Port of Full Screen Mario with Extras.
+![](/images/2B6A11A3-2102-4092-9584-E9BCBA85FA1F.png)[xoltron.github.io/xoltmario](/xoltmario/) - HTML Port of Full Screen Mario with Extras.
 
-[xoltron.github.io/xoltmoira](/xoltmoira/) - Same as "xoltmario" but actually works.
+![](/images/2B6A11A3-2102-4092-9584-E9BCBA85FA1F.png)[xoltron.github.io/xoltmoira](/xoltmoira/) - Same as "xoltmario" but actually works.
 
-[xoltron.github.io/xoltcookie2](/xoltcookie2/) - 2nd Webpage for cookie clicker cus why not?
+![](/images/cookie.png)[xoltron.github.io/xoltcookie2](/xoltcookie2/) - 2nd Webpage for cookie clicker cus why not?
 
 # Honorable Mentions
 
