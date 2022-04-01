@@ -1,9 +1,16 @@
-# Hello there lol
+# Welcome to Xoltron's Website!
+This is my cool website, yay. 
 
-This is my cool website :D
+![](/images/Screenshot_2022-03-10_12.35.30_PM-removebg-preview.png)
 
-Yeah that's it.
-
+## Connections
+**I am most active on Discord**
+```markdown
+Discord- XoltronMaster#4522
+TikTok- XoltronMaster (this platform is toxic lol)
+Github- You're already at my github page 😈
+I don't respond to emails, sorry :(
+```
 
 # Fun Games!
 **Just some links of games I imported, pretty much all of them are not mine.**
@@ -16,4 +23,4 @@ Yeah that's it.
 
 [xoltron.github.io/xoltcookie2](https//xoltron.github.io/xoltcookie2/) - 2nd Webpage for cookie clicker cus why not?
 
-![](
+
