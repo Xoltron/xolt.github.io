@@ -8,6 +8,7 @@ This is my cool website, yay.
 ```markdown
 Discord- XoltronMaster#4522
 TikTok- XoltronMaster (this platform is toxic lol)
+Youtube- XoltronMaster
 Github- You're already at my github page 😈
 I don't respond to emails, sorry :(
 ```
@@ -15,12 +16,14 @@ I don't respond to emails, sorry :(
 # Fun Games!
 **Just some links of games I imported, pretty much all of them are not mine.**
 
-[xoltcookie](xoltron.github.io/xoltcookie/) - HTML Port of Cookie Clicker.
+[xoltron.github.io/xoltcookie](/xoltcookie/) - HTML Port of Cookie Clicker.
 
-[xoltron.github.io/xoltmario](https//xoltron.github.io/xoltmario/) - HTML Port of Full Screen Mario with Extras.
+[xoltron.github.io/xoltmario](/xoltmario/) - HTML Port of Full Screen Mario with Extras.
 
-[xoltron.github.io/xoltmoira](https//xoltron.github.io/xoltmoira/) - Same as "xoltmario" but actually works.
+[xoltron.github.io/xoltmoira](/xoltmoira/) - Same as "xoltmario" but actually works.
 
-[xoltron.github.io/xoltcookie2](https//xoltron.github.io/xoltcookie2/) - 2nd Webpage for cookie clicker cus why not?
+[xoltron.github.io/xoltcookie2](/xoltcookie2/) - 2nd Webpage for cookie clicker cus why not?
 
+# Honorable Mentions
 
+Swiftbed, my bestest friend on discord. He cool.
