@@ -1,6 +1,6 @@
 # Welcome to Xoltron's Website!
-This is my cool website, yay. 
 
+This is my cool website, yay.  
 ![](/images/Screenshot_2022-03-10_12.35.30_PM-removebg-preview.png)
 
 ## Connections
