@@ -32,6 +32,8 @@ You're already at my github page 😈
 
 ![](/images/cookie.png)[xoltron.github.io/xoltcookie2](/xoltcookie2/) - 2nd Webpage for cookie clicker cus why not?
 
+[xoltron.github.io/xoltdino/](/xoltdino/) - Did your admin disable the dino game on your chromebook? Well here's a html port of the dino game!
+
 ## Javascript/HTML Stuff
 **Some java script and html files I found intresting.**
 
