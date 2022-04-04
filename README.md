@@ -26,13 +26,11 @@ You're already at my github page 😈
 
 ![](/images/cookie.png)[xoltron.github.io/xoltcookie](/xoltcookie/) - HTML Port of Cookie Clicker.
 
-![](/images/2B6A11A3-2102-4092-9584-E9BCBA85FA1F.png)[xoltron.github.io/xoltmario](/xoltmario/) - HTML Port of Full Screen Mario with Extras.
-
-![](/images/2B6A11A3-2102-4092-9584-E9BCBA85FA1F.png)[xoltron.github.io/xoltmoira](/xoltmoira/) - Same as "xoltmario" but actually works.
+![](/images/2B6A11A3-2102-4092-9584-E9BCBA85FA1F.png)[xoltron.github.io/xoltmoira](/xoltmoira/) - HTML Port of Fullscreen Mario with Extras.
 
 ![](/images/cookie.png)[xoltron.github.io/xoltcookie2](/xoltcookie2/) - 2nd Webpage for cookie clicker cus why not?
 
-[xoltron.github.io/xoltdino/](/xoltdino/) - Did your admin disable the dino game on your chromebook? Well here's a html port of the dino game!
+![](/images/dinoo.png)[xoltron.github.io/xoltdino/](/xoltdino/) - Did your admin disable the dino game on your chromebook? Well here's a html port of the dino game!
 
 [xoltron.github.io/xoltdoom1](/xoltdoom1/) - Doom built in da browser, I didn't make this. Credits are on the site.
 
