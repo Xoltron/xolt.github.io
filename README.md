@@ -34,6 +34,8 @@ You're already at my github page 😈
 
 [xoltron.github.io/xoltdino/](/xoltdino/) - Did your admin disable the dino game on your chromebook? Well here's a html port of the dino game!
 
+[xoltron.github.io/xoltdoom1](/xoltdoom/) - Doom built in da browser, I didn't make this. Credits are on the site.
+
 ## Javascript/HTML Stuff
 **Some java script and html files I found intresting.**
 
