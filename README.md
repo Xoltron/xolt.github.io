@@ -53,3 +53,4 @@ javascript:var autoclicker = setInterval(function(){ try { document.getElementBy
 
 * Swiftbed, my bestest friend on discord. He cool.
 * [https://shsgames.github.io](https://shsgames.github.io) - An awesome game website!
+* Brycen: "Ecoli turns ogers into **pickles.**"
