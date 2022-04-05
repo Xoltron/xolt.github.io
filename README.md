@@ -3,6 +3,11 @@
 ![](/images/Screenshot_2022-03-10_12.35.30_PM-removebg-preview.png)
 
 * * *
+## Updates
+```markdown
+* Tetris was added
+* ur mother was added
+```
 
 ## Connections
 **I am most active on Discord**
