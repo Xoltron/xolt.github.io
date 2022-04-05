@@ -34,6 +34,8 @@ You're already at my github page 😈
 
 ![](/images/doomies.png)[xoltron.github.io/xoltdoom1](/xoltdoom1/) - Doom built in da browser, I didn't make this. Credits are on the site. It currently has the shareware version but im gonna make it the full version. Piracy 101 😎
 
+[xoltron.github.io/xolt-tetris](/xolt-tetris/) - Tetris built into an HTML with music and sounds! Built by Larprad.
+
 ## Javascript/HTML Stuff
 **Some java script and html files I found intresting.**
 
@@ -52,4 +54,4 @@ javascript:var autoclicker = setInterval(function(){ try { document.getElementBy
 * Swiftbed, my bestest friend on discord. He cool.
 * [https://shsgames.github.io](https://shsgames.github.io) - An awesome game website!
 * Brycen: "Ecoli turns ogers into **pickles.**"
-* the dog what doin this cat is d this cat is r this cat is rd this cat just j **HEAHAEAEHAEHAHEAHEHAEHAH**
+* the dog what doin this cat is d this cat is r this cat is rd this cat just j **HEHAEHAHEAHEHAH**
