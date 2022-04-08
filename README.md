@@ -1,3 +1,5 @@
+ <link rel="icon" type="image/png" href="/images/Screenshot_2022-03-10_12.35.30_PM-removebg-preview.png" />
+
 # Welcome to Xoltron's Website!
 > This is my cool website, yay.  
 ![](/images/Screenshot_2022-03-10_12.35.30_PM-removebg-preview.png)
@@ -5,8 +7,8 @@
 * * *
 ## Updates
 ```markdown
-* Tetris was added
-* ur mother was added
+* Website icon was added (might not work im new to this stuff)
+* ur mother was removed :(
 ```
 
 ## Connections
