@@ -28,6 +28,9 @@ You're already at my github page 😈
 
 **I don't respond to emails, sorry :(**
 
+## Click the Cacodemon!
+[<img src="https://i1.sndcdn.com/artworks-is2mitBcrNoCJPVu-63c9uA-t500x500.jpg" width="50"/>](/techquizlol.html/) Click him for a funny tech quiz i made for multi media lol
+
 ## Fun Games!
 **Just some links of games I imported, pretty much all of them are not mine.**
 
@@ -39,9 +42,9 @@ You're already at my github page 😈
 
 ![](/images/dinoo.png)[xoltron.github.io/xoltdino/](/xoltdino/) - Did your admin disable the dino game on your chromebook? Well here's a html port of the dino game!
 
-![](/images/doomies.png)[xoltron.github.io/xoltdoom1](/xoltdoom1/) - Doom built in da browser, I didn't make this. Credits are on the site. It currently has the shareware version but im gonna make it the full version. Piracy 101 😎
+![](/images/doomies.png)[xoltron.github.io/xoltdoom1](/xoltdoom1/) - Doom built in da browser, I didn't make this. Credits are on the site. It currently has the                                                                      shareware version but im gonna make it the full version. Piracy 101 😎
 
-[xoltron.github.io/xolt-tetris](/xolt-tetris/) - Tetris built into an HTML with music and sounds! Built by Larprad.
+<img src="https://cdn-icons-png.flaticon.com/512/566/566312.png" width="48"/> [xoltron.github.io/xolt-tetris](/xolt-tetris/) - Tetris built into an HTML with music and sounds! Built by Larprad.
 
 ## Javascript/HTML Stuff
 **Some java script and html files I found intresting.**
