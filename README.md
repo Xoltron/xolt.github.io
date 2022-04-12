@@ -10,7 +10,7 @@
 * Website icon was added (might not work im new to this stuff)
 * ur mother was removed :(
 ```
-
+* * *
 ## Connections
 **I am most active on Discord**
 
@@ -28,9 +28,11 @@ You're already at my github page 😈
 
 **I don't respond to emails, sorry :(**
 
+* * *
 ## Click the Cacodemon!
 [<img src="https://i1.sndcdn.com/artworks-is2mitBcrNoCJPVu-63c9uA-t500x500.jpg" width="50"/>](/techquizlol.html/) Click him for a funny tech quiz i made for multi media lol
 
+* * *
 ## Fun Games!
 **Just some links of games I imported, pretty much all of them are not mine.**
 
@@ -46,6 +48,7 @@ You're already at my github page 😈
 
 <img src="https://cdn-icons-png.flaticon.com/512/566/566312.png" width="48"/> [xoltron.github.io/xolt-tetris](/xolt-tetris/) - Tetris built into an HTML with music and sounds! Built by Larprad.
 
+* * *
 ## Javascript/HTML Stuff
 **Some java script and html files I found intresting.**
 
