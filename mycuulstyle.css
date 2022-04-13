@@ -1,0 +1,23 @@
+.element {
+  border: 10px ridge rgba(204, 4, 64, 1);
+  border-radius: 0px;
+  background-color: rgba(255, 255, 255, 1);
+  background-image: url("https://cdn2.steamgriddb.com/file/sgdb-cdn/hero_thumb/fc1a36821b02abbd2503fd949bfc9131.jpg");
+}
+
+.text {
+  font: normal normal 16px/1.2 "proxima-nova";
+  letter-spacing: 0px;
+}
+
+h1 {
+  border: 5px solid red;
+}
+
+h2 {
+  border: 8px ridge rgba(181, 0, 222, 1);
+}
+
+div {
+  border: 3px double rgba(204, 4, 154, 1);
+}
