@@ -7,24 +7,26 @@
 * * *
 ## Updates
 ```markdown
-* Website icon was added (might not work im new to this stuff)
-* ur mother was removed :(
+* cuul style :sunglasses:
 ```
 * * *
 ## Connections
 **I am most active on Discord**
 
-Discord
+Discord:
 `XoltronMaster#4522`
 
-TikTok
+TikTok:
 `XoltronMaster` (this platform is toxic lol)
 
-Youtube
+Youtube:
 `XoltronMaster`
 
-Github
-You're already at my github page 😈
+Github:
+`You're already at my github page 😈`
+
+Twitter:
+**no**
 
 **I don't respond to emails, sorry :(**
 
